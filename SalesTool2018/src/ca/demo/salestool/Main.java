@@ -13,6 +13,7 @@ public class Main {
 		System.out.println("THIS APP SHOWS SALES DATA");
 		System.out.println("WOot! It pushed! the second time");
 		System.out.println("WOot! It pushed! the third time");
+		System.out.println("WOot! It pushed! the fourth time");
 	}
 
 }
